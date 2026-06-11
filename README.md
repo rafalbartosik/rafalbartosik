@@ -2,7 +2,7 @@
 
 # Hi, I'm Rafał 👋
 
-### 📊 Data Analyst · Business Intelligence
+### 📊 Data Analyst · BI Specialist
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Data+Analyst+%26+BI+Enthusiast;Turning+raw+data+into+business+insights;Python+%7C+SQL+%7C+Power+BI+%7C+R)](https://github.com/rafalbartosik)
 
@@ -15,9 +15,9 @@
 
 ## 🧭 About Me
 
-I'm a **Data Analyst** focused on turning messy, raw data into clear insights that drive business decisions. I work across the full analytics stack — **Python, SQL, R, and Power BI** — to build reporting, interactive dashboards, and predictive models.
+I specialize in data analysis, business intelligence, and building data-driven solutions using **Power BI, Python, SQL, R and Python**.   My main focus is transforming raw, unstructured data into meaningful insights that support business decision-making, reporting, and performance monitoring.
 
-I'm especially drawn to applied, real-world problems: **logistics optimization, customer-behavior analysis, and risk modeling**. I like work that sits at the intersection of analytical rigor and a concrete business question.
+I am particularly interested in combining analytical thinking with real-world business problems, including optimization, customer behavior analysis, and risk modeling.
 
 <details>
 <summary>🇵🇱 <b>Wersja polska — o mnie i projekty</b></summary>
@@ -26,9 +26,9 @@ I'm especially drawn to applied, real-world problems: **logistics optimization, 
 
 ### O mnie
 
-Jestem **analitykiem danych** skupionym na przekształcaniu surowych, nieuporządkowanych danych w klarowne insighty wspierające decyzje biznesowe. Pracuję w pełnym stacku analitycznym — **Python, SQL, R i Power BI** — budując raporty, interaktywne dashboardy oraz modele predykcyjne.
+Specjalizuję się w analizie danych, analityce biznesowej oraz tworzeniu rozwiązań opartych na danych z wykorzystaniem **Power BI, Pythona, SQL i R**.   Moim głównym celem jest przekształcanie surowych, nieustrukturyzowanych danych w wartościowe wnioski, które wspierają procesy podejmowania decyzji biznesowych, sprawozdawczość oraz monitorowanie wyników.
 
-Szczególnie interesują mnie realne problemy biznesowe: **optymalizacja logistyki, analiza zachowań klientów i modelowanie ryzyka**. Lubię zadania na styku analitycznej rzetelności i konkretnego pytania biznesowego.
+Szczególnie interesuje mnie łączenie myślenia analitycznego z rzeczywistymi problemami biznesowymi, takimi jak optymalizacja, analiza zachowań klientów oraz modelowanie ryzyka.
 
 ### Projekty
 
