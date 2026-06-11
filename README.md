@@ -113,8 +113,13 @@ An **end-to-end business-intelligence project** on Kaggle's Olist dataset, turni
 - 🌎 **Seller & regional performance** across Brazil
 - 🎯 **KPI monitoring** and identification of operational bottlenecks affecting customer experience
 
-> 💡 *Tip: add a screenshot or short GIF of the dashboard here — for BI work, the visual is the strongest part of the pitch.*
+### Dashboard Preview
 
+![Home](https://raw.githubusercontent.com/rafalbartosik/E-commerce-Operations-Dashboard/main/home.png)
+![Sales Overview](https://raw.githubusercontent.com/rafalbartosik/E-commerce-Operations-Dashboard/main/sales-overview.png)
+![Delivery & Satisfaction — Reviews](https://raw.githubusercontent.com/rafalbartosik/E-commerce-Operations-Dashboard/main/delivery-satisfaction-reviews.png)
+![Delivery & Satisfaction — Deliveries & Demand](https://raw.githubusercontent.com/rafalbartosik/E-commerce-Operations-Dashboard/main/delivery-satisfaction-deliveries.png)
+![Customers & Geography](https://raw.githubusercontent.com/rafalbartosik/E-commerce-Operations-Dashboard/main/customers-geography.png)
 ---
 
 ## 🤝 Let's Connect
