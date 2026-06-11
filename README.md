@@ -13,7 +13,7 @@
 
 ## 🧭 About Me
 
-I specialize in data analysis, business intelligence, and building data-driven solutions using **Power BI, Python, SQL, R and Python**.   My main focus is transforming raw, unstructured data into meaningful insights that support business decision-making, reporting, and performance monitoring.
+I specialize in data analysis, business intelligence, and building data-driven solutions using **Power BI, SQL, R and Python**.   My main focus is transforming raw, unstructured data into meaningful insights that support business decision-making, reporting, and performance monitoring.
 
 I am particularly interested in combining analytical thinking with real-world business problems, including optimization, customer behavior analysis, and risk modeling.
 
@@ -24,7 +24,7 @@ I am particularly interested in combining analytical thinking with real-world bu
 
 ### O mnie
 
-Specjalizuję się w analizie danych, analityce biznesowej oraz tworzeniu rozwiązań opartych na danych z wykorzystaniem **Power BI, Pythona, SQL i R**.   Moim głównym celem jest przekształcanie surowych, nieustrukturyzowanych danych w wartościowe wnioski, które wspierają procesy podejmowania decyzji biznesowych, sprawozdawczość oraz monitorowanie wyników.
+Specjalizuję się w analizie danych, analityce biznesowej oraz tworzeniu rozwiązań opartych na danych z wykorzystaniem **Power BI, SQL, R i Pythona,**.   Moim głównym celem jest przekształcanie surowych, nieustrukturyzowanych danych w wartościowe wnioski, które wspierają procesy podejmowania decyzji biznesowych, sprawozdawczość oraz monitorowanie wyników.
 
 Szczególnie interesuje mnie łączenie myślenia analitycznego z rzeczywistymi problemami biznesowymi, takimi jak optymalizacja, analiza zachowań klientów oraz modelowanie ryzyka.
 
