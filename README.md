@@ -99,11 +99,11 @@ A **deployed web app** that analyzes road-accident risk along driving routes in 
 ### 📊 Olist E-commerce Analytics — Power BI
 
 [![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafalbartosik/E-commerce-Operations-Dashboard)
-<!-- 👆 Replace the link above with the actual Olist project repo URL -->
+
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-356EAB?style=flat-square&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Data:_Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+[![Kaggle](https://img.shields.io/badge/Data:_Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 
 An **end-to-end business-intelligence project** on Kaggle's Olist dataset, turning raw transactional data into interactive dashboards and KPIs that mirror a real BI reporting workflow.
 
