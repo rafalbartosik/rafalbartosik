@@ -98,7 +98,7 @@ A **deployed web app** that analyzes road-accident risk along driving routes in 
 
 ### 📊 Olist E-commerce Analytics — Power BI
 
-[![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafalbartosik)
+[![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafalbartosik/E-commerce-Operations-Dashboard)
 <!-- 👆 Replace the link above with the actual Olist project repo URL -->
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
