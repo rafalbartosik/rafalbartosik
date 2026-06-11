@@ -1,173 +1,162 @@
-<h1 align="center">Hi 👋, I'm Rafał</h1>
-<h3 align="center">I'm a Data Analyst / Business Intelligence enthusiast from Poland</h3>
+<div align="center">
+
+# Hi, I'm Rafał 👋
+
+### 📊 Data Analyst · Business Intelligence
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Data+Analyst+%26+BI+Enthusiast;Turning+raw+data+into+business+insights;Python+%7C+SQL+%7C+Power+BI+%7C+R)](https://github.com/rafalbartosik)
+
+![Profile Views](https://komarev.com/ghpvc/?username=rafalbartosik&color=7AA2F7&style=for-the-badge&label=PROFILE+VIEWS)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafalbartosik1/)
+
+</div>
 
 ---
 
-## 🌍 Language / Język
+## 🧭 About Me
+
+I'm a **Data Analyst** focused on turning messy, raw data into clear insights that drive business decisions. I work across the full analytics stack — **Python, SQL, R, and Power BI** — to build reporting, interactive dashboards, and predictive models.
+
+I'm especially drawn to applied, real-world problems: **logistics optimization, customer-behavior analysis, and risk modeling**. I like work that sits at the intersection of analytical rigor and a concrete business question.
 
 <details>
-<summary>🇬🇧 English</summary>
+<summary>🇵🇱 <b>Wersja polska — o mnie i projekty</b></summary>
 
-<h3>📊 About me</h3>
-<p>
-I specialize in data analysis, business intelligence, and building data-driven solutions using Python, SQL, R, and Power BI.  
-My main focus is transforming raw, unstructured data into meaningful insights that support business decision-making, reporting, and performance monitoring.
-</p>
+<br>
 
-<p>
-I am particularly interested in combining analytical thinking with real-world business problems, including logistics optimization, customer behavior analysis, and risk modeling.
-</p>
+### O mnie
 
----
+Jestem **analitykiem danych** skupionym na przekształcaniu surowych, nieuporządkowanych danych w klarowne insighty wspierające decyzje biznesowe. Pracuję w pełnym stacku analitycznym — **Python, SQL, R i Power BI** — budując raporty, interaktywne dashboardy oraz modele predykcyjne.
 
-<h3>📈 Projects</h3>
+Szczególnie interesują mnie realne problemy biznesowe: **optymalizacja logistyki, analiza zachowań klientów i modelowanie ryzyka**. Lubię zadania na styku analitycznej rzetelności i konkretnego pytania biznesowego.
 
-<p>
-<b>📊 Olist E-commerce Analysis (Power BI)</b><br>
-A comprehensive business intelligence project based on the Olist dataset from Kaggle, focused on analyzing e-commerce operations from a real-world perspective.
-</p>
+### Projekty
 
-<p>
-The goal of the project was to simulate a real business analytics environment by transforming raw transactional data into interactive dashboards and actionable KPIs for decision-making.
-</p>
+**🚦 eZagrożeNIE — Platforma Zagrożeń Drogowych**
+Wdrożona aplikacja webowa analizująca ryzyko wypadków drogowych na trasach w województwie lubuskim. Wyznacza trasę przez API OSRM, przeszukuje historyczne zdarzenia w buforze bezpieczeństwa wzdłuż trasy i szacuje prawdopodobieństwo wypadku modelem regresji logistycznej (na podstawie pory dnia, dnia tygodnia i miesiąca). Projekt zrealizowany na Wydziale Matematyki i Informatyki UAM w Poznaniu.
 
-<p><b>Key analytical areas:</b></p>
-
-- Sales performance analysis over time (revenue trends, seasonality)
-- Delivery performance and logistics efficiency (delays, fulfillment time)
-- Customer segmentation based on purchasing behavior and order patterns
-- Seller and regional performance comparison across Brazil
-- KPI monitoring for business performance tracking and reporting
-- Identification of operational bottlenecks affecting customer experience
-
-<p><b>Business value:</b></p>
-
-The analysis provides insights into operational efficiency and customer behavior, allowing identification of key performance drivers, logistics issues, and revenue distribution patterns. It simulates a real BI reporting system used in e-commerce companies.
-
----
-
-<p>
-<b>🚦 eZagrożenie – Road Risk Platform</b><br>
-A web application built with Python and Streamlit designed to analyze road accident risk on selected routes in Lubuskie Voivodeship.
-</p>
-
-<p>
-The system combines geospatial analysis, route optimization, and machine learning to estimate safety levels for different travel paths.
-</p>
-
-<p><b>Features:</b></p>
-
-- Route planning using OSRM API (primary and alternative routes)
-- Accident density analysis within defined safety buffer zones
-- Interactive geospatial visualization using Folium
-- Risk prediction model using Logistic Regression (scikit-learn)
-- Data exploration with detailed incident-level information
-
----
+**📊 Analiza e-commerce Olist (Power BI)**
+Kompleksowy projekt BI na zbiorze danych Olist z Kaggle — przekształcenie surowych danych transakcyjnych w interaktywne dashboardy i KPI odzwierciedlające realny proces raportowania. Obszary: sprzedaż i sezonowość, efektywność dostaw i logistyki, segmentacja klientów, porównanie sprzedawców i regionów Brazylii oraz identyfikacja wąskich gardeł operacyjnych.
 
 </details>
 
 ---
 
-<details>
-<summary>🇵🇱 Polski</summary>
+## 🛠️ Tech Stack
 
-<h3>📊 O mnie</h3>
-<p>
-Specjalizuję się w analizie danych, business intelligence oraz tworzeniu rozwiązań opartych na danych z wykorzystaniem Python, SQL, R oraz Power BI.  
-Moim głównym celem jest przekształcanie surowych danych w wartościowe insighty wspierające podejmowanie decyzji biznesowych, raportowanie oraz analizę wyników.
-</p>
+**Languages & Query**
 
-<p>
-Szczególnie interesuje mnie łączenie analitycznego podejścia z realnymi problemami biznesowymi, takimi jak optymalizacja logistyki, analiza zachowań klientów oraz modelowanie ryzyka.
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 
----
+**Business Intelligence & Visualization**
 
-<h3>📈 Projekty</h3>
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-356EAB?style=for-the-badge&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=leaflet&logoColor=white)
 
-<p>
-<b>📊 Analiza e-commerce Olist (Power BI)</b><br>
-Kompleksowy projekt business intelligence oparty na zestawie danych Olist z Kaggle, skupiony na analizie operacji e-commerce w warunkach zbliżonych do rzeczywistych.
-</p>
+**Data Science & Machine Learning**
 
-<p>
-Celem projektu było stworzenie środowiska analitycznego odzwierciedlającego pracę analityka biznesowego poprzez przekształcenie danych transakcyjnych w interaktywne dashboardy i KPI wspierające podejmowanie decyzji.
-</p>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
-<p><b>Główne obszary analizy:</b></p>
+**Tools & Platforms**
 
-- Analiza sprzedaży w czasie (trendy przychodów, sezonowość)
-- Wydajność dostaw i efektywność logistyki (opóźnienia, czas realizacji)
-- Segmentacja klientów na podstawie zachowań zakupowych
-- Porównanie wyników sprzedawców i regionów w Brazylii
-- Monitorowanie KPI i raportowanie wyników biznesowych
-- Identyfikacja wąskich gardeł operacyjnych wpływających na doświadczenie klienta
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-<p><b>Wartość biznesowa:</b></p>
-
-Analiza pozwala zrozumieć kluczowe czynniki wpływające na wyniki sprzedażowe i efektywność operacyjną. Umożliwia identyfikację problemów logistycznych, wzorców zachowań klientów oraz struktury przychodów w firmie e-commerce.
+<!-- Add or remove badges freely. More badge styles: https://github.com/Ileriayo/markdown-badges -->
 
 ---
 
-<p>
-<b>🚦 eZagrożenie – platforma ryzyka drogowego</b><br>
-Aplikacja webowa w Pythonie (Streamlit) analizująca ryzyko wypadków drogowych na wybranych trasach w województwie lubuskim.
-</p>
+## 🚀 Featured Projects
 
-<p>
-System łączy analizę geospatial, optymalizację tras oraz uczenie maszynowe w celu oceny poziomu bezpieczeństwa różnych tras przejazdu.
-</p>
+### 🚦 eZagrożeNIE — Road Risk Platform
 
-<p><b>Funkcje:</b></p>
+[![Live Demo](https://img.shields.io/badge/▶_Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://ezagrozenie.streamlit.app)
+[![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafalbartosik/eZagrozeNIE)
 
-- Wyznaczanie tras (OSRM API – trasa główna i alternatywne)
-- Analiza zagęszczenia wypadków w buforze bezpieczeństwa
-- Wizualizacja danych na mapach (Folium)
-- Model predykcyjny (regresja logistyczna – scikit-learn)
-- Analiza szczegółowych danych o zdarzeniach
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Folium](https://img.shields.io/badge/Folium-77B829?style=flat-square&logo=leaflet&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![OSRM](https://img.shields.io/badge/OSRM-5B396B?style=flat-square&logoColor=white)
 
----
+A **deployed web app** that analyzes road-accident risk along driving routes in the Lubuskie Voivodeship. It plans a route, scans historical incidents inside a safety buffer around the path, and estimates accident probability with a machine-learning model.
 
-</details>
-
----
-
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rafalbartosik1/" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-</p>
+- 🗺️ **Route planning** via the OSRM API — primary plus alternative routes
+- 📍 **Geospatial accident analysis** within a safety buffer, clustered on interactive **Folium** maps
+- 🤖 **Risk prediction** using **Logistic Regression** (scikit-learn) based on time of day, weekday, and month
+- 📋 **Drill-down data view** — toggleable tables with town, street, and distance from route
+- 🎓 University project at the Faculty of Mathematics & Computer Science, Adam Mickiewicz University in Poznań *(team project — collaborators credited in the repo)*
 
 ---
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
+### 📊 Olist E-commerce Analytics — Power BI
 
-<a href="https://www.microsoft.com/en-us/sql-server">
-<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
-</a>
+[![Repo](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafalbartosik)
+<!-- 👆 Replace the link above with the actual Olist project repo URL -->
 
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-356EAB?style=flat-square&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Data:_Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 
-<a href="https://www.python.org">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
+An **end-to-end business-intelligence project** on Kaggle's Olist dataset, turning raw transactional data into interactive dashboards and KPIs that mirror a real BI reporting workflow.
 
-<a href="https://powerbi.microsoft.com/">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="40" height="40"/>
-</a>
+- 📈 **Sales performance & seasonality** — revenue trends over time
+- 🚚 **Delivery & logistics efficiency** — delays and fulfillment time
+- 👥 **Customer segmentation** by purchasing behavior and order patterns
+- 🌎 **Seller & regional performance** across Brazil
+- 🎯 **KPI monitoring** and identification of operational bottlenecks affecting customer experience
 
-<a href="https://www.r-project.org/">
-<img src="https://www.r-project.org/Rlogo.png" width="40" height="40"/>
-</a>
-
-
-</p>
+> 💡 *Tip: add a screenshot or short GIF of the dashboard here — for BI work, the visual is the strongest part of the pitch.*
 
 ---
 
-<h3 align="left">📊 GitHub Stats</h3>
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=rafalbartosik&show_icons=true&locale=en&layout=compact" />
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rafalbartosik&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafalbartosik&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rafalbartosik&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rafalbartosik&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=rafalbartosik&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" />
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rafalbartosik1/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafalbartosik)
+<!-- Optional: add an email button -->
+<!-- [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) -->
+
+</div>
+
+---
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafalbartosik/rafalbartosik/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rafalbartosik/rafalbartosik/output/snake.svg">
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/rafalbartosik/rafalbartosik/output/snake.svg">
+</picture>
+
+<sub>⭐ The snake animation is generated by a GitHub Action — see setup notes.</sub>
+
+</div>
